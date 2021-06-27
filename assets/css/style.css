@@ -400,6 +400,10 @@ img {
   margin-bottom: var(--mb-2-5);
 }
 
+.about__description a {
+  color: var(--title-color);
+}
+
 .about__buttons {
   display: flex;
   justify-content: center;
@@ -1104,10 +1108,6 @@ img {
 
   .about__description {
     text-align: initial;
-  }
-
-  .about__description a {
-    color: var(--title-color);
   }
 
   .about__buttons {
