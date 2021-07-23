@@ -1,3 +1,3 @@
 # Portfolio
 
-https://srirajbehera.github.io/Portfolio/
+https://srirajbehera.github.io/
